@@ -1,0 +1,211 @@
+* {
+    font-family: 'Kaisei Decol', serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.firstView h1 {
+    font-size: 80px;
+    text-align: left;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-image: url(images/firstview.jpg);
+    background-size: cover;
+    padding-left: 100px;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+}
+
+.page-contents{
+    text-align: center;
+    padding: 100px 100px;
+    background-image: url(images/mokuji.jpeg);
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.page-contents h2{
+    font-size: 64px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    display: inline-block;
+    padding-bottom: 100px;
+}
+
+.page-contents ul{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+ul li{
+    font-size: 50px;
+}
+
+.kihon{
+    text-align: center;
+    padding: 100px 100px;
+    background-image: url(images/kihondate.jpg);
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.kihon img{
+    width: 750px;
+    height: 500px;
+    margin-top: 120px;
+    margin-right: 100px;
+    border-radius: 16px;
+}
+
+.kihon h2{
+    font-size: 64px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    border-bottom: 3px solid #000;
+    display: inline-block;
+}
+
+.kihon p{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 32px;
+    line-height: 100px;
+    letter-spacing: 0.2em;
+    padding-left: 100px;
+}
+
+.kihondate{
+    display: flex;
+    justify-content: space-between;
+}
+
+.university{
+    text-align: center;
+    padding: 100px 100px;
+    background-image: url(images/daigaku.jpg);
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.university p{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 32px;
+    line-height: 100px;
+    letter-spacing: 0.2em;
+    padding-left: 100px;
+}
+
+.university h2{
+    font-size: 64px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    border-bottom: 3px solid #000;
+    display: inline-block;
+}
+
+.daigaku{
+    display: flex;
+    justify-content: space-between;
+}
+
+.university img{
+    width: 750px;
+    height: 500px;
+    margin-top: 120px;
+    margin-right: 100px;
+    border-radius: 16px;
+}
+
+.leaders{
+    text-align: center;
+    padding: 100px 100px;
+    background-image: url(images/maikura.jpg);
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.leaders h2{
+    font-size: 64px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    border-bottom: 3px solid #000;
+    display: inline-block;
+}
+
+.leaders p{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 32px;
+    line-height: 87px;
+    letter-spacing: 0.2em;
+    padding-left: 100px;
+    width: 800px;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 16px;
+}
+
+.leaders img{
+    width: 750px;
+    height: 500px;
+    margin-top: 120px;
+    margin-right: 100px;
+    border-radius: 16px;
+}
+
+.kensyu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.favorite h2{
+    font-size: 64px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    border-bottom: 3px solid #000;
+    display: inline-block;
+}
+
+.favorite{
+    text-align: center;
+    padding: 100px 100px;
+    background-image: url(images/check.png);
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.favorite-content h3{
+    font-size: 40px;
+    margin-top: 16px;
+}
+
+.favorite-content p{
+    font-size: 25px;
+    text-align: left;
+    margin-top: 32px;
+}
+
+.favorite-content img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.favorite-content{
+    width: 400px;
+    padding: 30px;
+    background-color: rgba(2, 2, 2, 0.05);
+    border-radius: 16px;
+}
+
+.favorite-contents{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
